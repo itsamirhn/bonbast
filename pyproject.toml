@@ -5,7 +5,7 @@ build-backend = "setuptools.build_meta"
 [project]
 name = "bonbast"
 version = "1.0.2"
-description = "Get currencies exchange rates for IRR from Bonbast.com"
+description = "Get currencies exchange rates for IRR from Bon-bast.com"
 readme = "README.md"
 authors = [
     { name = "Amir Hossein SamadiPour", email = "samadipoor2@gmail.com" },
